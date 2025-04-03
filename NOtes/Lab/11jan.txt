@@ -1,0 +1,6 @@
+FS Node Js Lab Task:
+
+1. Create a database with your name.
+2. Create collection student in it. (using create)
+3. Store data in collection.(mini 5 records)
+4. Name, Univ. roll no., Class Roll no., Contact No., Subject Names(they will vary and stored as a sub collection), Hobbies. 

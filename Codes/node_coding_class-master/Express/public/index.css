@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+.heading{
+    font-size: 400px;
+    color: red;
+}
+.para{
+    font-size: 200px;
+    color: blue;
+}
